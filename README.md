@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#React
+
+node version v14.15.0
+
+yarn install
+yarn add react_ujs
+./bin/webpack để build
+e để module react ở http://localhost:3000/products
